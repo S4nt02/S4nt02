@@ -1,4 +1,4 @@
-# 👋 Olá, visitand
+# 👋 Olá, visitante
 
 Sou André **Desenvolvedor Back-End** e estudante de **Análise e Desenvolvimento de Sistemas**.  
 Atuo diariamente com **Python e SQL**, desenvolvendo regras de negócio, integrações e automações internas.  
