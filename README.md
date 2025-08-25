@@ -1,6 +1,6 @@
-# 👋 Olá, eu sou o André Machado  
+# 👋 Olá, visitand
 
-Sou **Desenvolvedor Back-End** e estudante de **Análise e Desenvolvimento de Sistemas**.  
+Sou André **Desenvolvedor Back-End** e estudante de **Análise e Desenvolvimento de Sistemas**.  
 Atuo diariamente com **Python e SQL**, desenvolvendo regras de negócio, integrações e automações internas.  
 Tenho experiência prática com **Node.js, JavaScript, APIs REST**, além de projetos pessoais em **cloud (GCP)** com pipelines de **CI/CD**.  
 
